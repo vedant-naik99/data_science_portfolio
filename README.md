@@ -20,7 +20,7 @@ Repository containing portfolio of data science projects completed by me for aca
 * [MTcars database Regression analysis](https://rpubs.com/ved1999/685927): The analysis of following questions were done-
   + Is an automatic or manual transmission better for MPG?
   + Quantify the MPG difference between automatic and manual transmissions
-* [ML using gbm and random forrest for predictions](https://github.com/vedant-naik99/Practical-Machine-Learning-Course-Project)
+* [ML using gbm and random forrest for predictions](https://rpubs.com/ved1999/685921)
   + Used random forrest and gbm to make predict the manner in which they did the exercise. 
 * [COVID-Tracker](https://github.com/vedant-naik99/Covid-Tracker)
   + This website was used by using shiny package in R. This site is updated once daily.
