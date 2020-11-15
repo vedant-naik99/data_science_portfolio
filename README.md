@@ -22,6 +22,7 @@ Repository containing portfolio of data science projects completed by me for aca
   + Quantify the MPG difference between automatic and manual transmissions
 * [ML using gbm and random forrest for predictions](https://rpubs.com/ved1999/685921)
   + Used random forrest and gbm to make predict the manner in which they did the exercise. 
-* [COVID-Tracker](https://github.com/vedant-naik99/Covid-Tracker)
+* [COVID-Tracker](https://ved99.shinyapps.io/Covid-Tracker/)
+  + Used R for complete data cleaning and processing.
   + This website was used by using shiny package in R. This site is updated once daily.
   + The aim of this site is to complement the above resources by providing several interactive features like the timeline function and the regional plots.
